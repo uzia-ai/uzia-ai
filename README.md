@@ -7,7 +7,7 @@
   &nbsp;
   <a href="mailto:usama.zia72@gmail.com"><img src="assets/buttons/email.svg" height="40" alt="Email me"></a>
   &nbsp;
-  <a href="Usama_Zia_Resume.pdf"><img src="assets/buttons/resume.svg" height="40" alt="Résumé (PDF)"></a>
+  <a href="Usama_Zia_Resume.docx"><img src="assets/buttons/resume.svg" height="40" alt="Résumé"></a>
 </p>
 
 <br>
