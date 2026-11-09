@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Usama Zia, Senior Analytics Engineer. Data pipelines that run themselves, for fintech payments.">
+  <title>Usama Zia, Senior Analytics Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#132030"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+    <style>
+      .flow { animation: flow 2.4s linear infinite; }
+      .d2 { animation-delay: .8s; } .d3 { animation-delay: 1.6s; }
+      @keyframes flow { 0% { transform: translateX(0); opacity: 0; } 15% { opacity: 1; }
+                         85% { opacity: 1; } 100% { transform: translateX(96px); opacity: 0; } }
+      .bar { transform-box: fill-box; transform-origin: bottom; animation: grow 3.2s ease-in-out infinite; }
+      .b2 { animation-delay: .4s; } .b3 { animation-delay: .8s; }
+      @keyframes grow { 0%, 100% { transform: scaleY(.55); } 50% { transform: scaleY(1); } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+
+  <text x="64" y="84" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#2dd4bf">&gt; select * from engineers where ships_to_production;</text>
+  <text x="62" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="800" fill="#f0f6fc">Usama Zia</text>
+  <text x="64" y="196" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="600" fill="url(#accent)">Senior Analytics Engineer</text>
+  <text x="64" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="21" fill="#9da7b3">Data pipelines that run themselves, for fintech payments</text>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600">
+    <rect x="64" y="254" width="206" height="38" rx="19" fill="#1f2a37" stroke="#2d3b4d"/>
+    <circle cx="86" cy="273" r="5" fill="#38bdf8"/>
+    <text x="100" y="279" fill="#c9d1d9">Lahore, PK · UTC+5</text>
+    <rect x="282" y="254" width="290" height="38" rx="19" fill="#12261f" stroke="#1f4d3a"/>
+    <circle cx="304" cy="273" r="5" fill="#3fb950" class="pulse"/>
+    <text x="318" y="279" fill="#c9d1d9">Open to remote &amp; relocation</text>
+  </g>
+
+  <!-- pipeline: ingest -> model -> insight -->
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <line x1="808" y1="160" x2="1102" y2="160" stroke="#2d3b4d" stroke-width="2" stroke-dasharray="4 6"/>
+    <g fill="#2dd4bf">
+      <circle class="flow" cx="842" cy="160" r="4"/><circle class="flow d2" cx="842" cy="160" r="4"/><circle class="flow d3" cx="842" cy="160" r="4"/>
+      <circle class="flow" cx="972" cy="160" r="4"/><circle class="flow d2" cx="972" cy="160" r="4"/><circle class="flow d3" cx="972" cy="160" r="4"/>
+    </g>
+    <rect x="752" y="118" width="96" height="84" rx="16" fill="#151b23" stroke="#2d3b4d"/>
+    <g fill="none" stroke="#38bdf8" stroke-width="2.2">
+      <ellipse cx="800" cy="141" rx="15" ry="5"/><path d="M785 141v18c0 2.8 6.7 5 15 5s15-2.2 15-5v-18"/>
+    </g>
+    <text x="800" y="190" fill="#c9d1d9">Ingest</text>
+
+    <rect x="882" y="118" width="96" height="84" rx="16" fill="#151b23" stroke="#2d3b4d"/>
+    <g fill="#a78bfa"><rect x="912" y="134" width="14" height="10" rx="3"/><rect x="934" y="134" width="14" height="10" rx="3"/>
+      <rect x="923" y="156" width="14" height="10" rx="3"/></g>
+    <path d="M919 144l11 12M941 144l-11 12" stroke="#a78bfa" stroke-width="1.6"/>
+    <text x="930" y="190" fill="#c9d1d9">Model</text>
+
+    <rect x="1012" y="118" width="96" height="84" rx="16" fill="#151b23" stroke="#2d3b4d"/>
+    <g fill="#fbbf24"><rect class="bar" x="1042" y="138" width="8" height="28" rx="2"/>
+      <rect class="bar b2" x="1056" y="138" width="8" height="28" rx="2"/>
+      <rect class="bar b3" x="1070" y="138" width="8" height="28" rx="2"/></g>
+    <text x="1060" y="190" fill="#c9d1d9">Insight</text>
+  </g>
+</svg>

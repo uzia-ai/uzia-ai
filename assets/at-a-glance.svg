@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="184" viewBox="0 0 1200 184" role="img" aria-label="7 years in fintech payments; 100+ hours of reporting automated every month; 4x faster pipelines; 50+ enterprise clients using reports I rebuilt">
+  <title>At a glance</title>
+  <style>
+    .card { animation: rise .7s ease-out both; }
+    .c1 { animation-delay: .15s; } .c2 { animation-delay: .3s; } .c3 { animation-delay: .45s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  </style>
+  <g class="card c0">
+    <rect x="24" y="12" width="270" height="160" rx="18" fill="#151b23" stroke="#2d333b"/>
+    <rect x="48" y="34" width="28" height="4" rx="2" fill="#2dd4bf"/>
+    <text x="48" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="#2dd4bf">7 yrs</text>
+    <text x="48" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">in fintech payments</text>
+    <text x="48" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">data, operations, analytics</text>
+  </g>
+  <g class="card c1">
+    <rect x="318" y="12" width="270" height="160" rx="18" fill="#151b23" stroke="#2d333b"/>
+    <rect x="342" y="34" width="28" height="4" rx="2" fill="#38bdf8"/>
+    <text x="342" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="#38bdf8">100+ hrs</text>
+    <text x="342" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">of reporting automated</text>
+    <text x="342" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">every month</text>
+  </g>
+  <g class="card c2">
+    <rect x="612" y="12" width="270" height="160" rx="18" fill="#151b23" stroke="#2d333b"/>
+    <rect x="636" y="34" width="28" height="4" rx="2" fill="#a78bfa"/>
+    <text x="636" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="#a78bfa">4×</text>
+    <text x="636" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">faster pipelines</text>
+    <text x="636" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">after moving to Airflow</text>
+  </g>
+  <g class="card c3">
+    <rect x="906" y="12" width="270" height="160" rx="18" fill="#151b23" stroke="#2d333b"/>
+    <rect x="930" y="34" width="28" height="4" rx="2" fill="#fbbf24"/>
+    <text x="930" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="800" fill="#fbbf24">50+</text>
+    <text x="930" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">enterprise clients</text>
+    <text x="930" y="152" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#8b949e">using reports I rebuilt</text>
+  </g>
+</svg>

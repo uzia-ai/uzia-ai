@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Card Payments Decline and Fraud Analytics: preview coming soon">
+  <title>Card Payments Decline and Fraud Analytics</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#132030"/></linearGradient></defs>
+  <rect width="640" height="360" rx="18" fill="url(#g)"/>
+  <rect x=".5" y=".5" width="639" height="359" rx="18" fill="none" stroke="#2d333b"/>
+  <rect x="32" y="32" width="576" height="220" rx="12" fill="#151b23" stroke="#2d333b"/>
+  <rect x="60" y="160" width="22" height="70" rx="4" fill="#38bdf8" opacity="0.35"/><rect x="94" y="138" width="22" height="92" rx="4" fill="#38bdf8" opacity="0.40"/><rect x="128" y="166" width="22" height="64" rx="4" fill="#38bdf8" opacity="0.45"/><rect x="162" y="120" width="22" height="110" rx="4" fill="#38bdf8" opacity="0.50"/><rect x="196" y="134" width="22" height="96" rx="4" fill="#38bdf8" opacity="0.55"/><rect x="230" y="102" width="22" height="128" rx="4" fill="#38bdf8" opacity="0.60"/><rect x="264" y="146" width="22" height="84" rx="4" fill="#38bdf8" opacity="0.65"/><rect x="298" y="90" width="22" height="140" rx="4" fill="#38bdf8" opacity="0.70"/>
+  <path d="M60 150 L130 128 L200 140 L270 104 L340 112 L410 82" fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="452" y="56" width="132" height="58" rx="10" fill="#0d1117" stroke="#2d333b"/>
+    <text x="468" y="80" font-size="12" fill="#8b949e">Approval rate</text>
+    <text x="468" y="103" font-size="20" font-weight="800" fill="#2dd4bf">94.2%</text>
+    <rect x="452" y="126" width="132" height="58" rx="10" fill="#0d1117" stroke="#2d333b"/>
+    <text x="468" y="150" font-size="12" fill="#8b949e">Fraud flagged</text>
+    <text x="468" y="173" font-size="20" font-weight="800" fill="#f85149">0.31%</text>
+    <text x="452" y="222" font-size="11" fill="#6e7681">illustrative values</text>
+  </g>
+  <text x="32" y="300" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#f0f6fc">Card Payments Decline &amp; Fraud Analytics</text>
+  <text x="32" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#8b949e">Preview coming soon · building Feb–Mar 2027</text>
+</svg>

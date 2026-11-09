@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Greenplum">
+  <title>Greenplum</title>
+  <rect x="16" y="4" width="64" height="64" rx="16" fill="#151b23" stroke="#2d333b"/>
+  <g fill="none" stroke="#3fb950" stroke-width="2.4"><ellipse cx="48" cy="25" rx="13" ry="5"/><path d="M35 25v22c0 2.8 5.8 5 13 5s13-2.2 13-5V25"/><path d="M35 36c0 2.8 5.8 5 13 5s13-2.2 13-5"/></g>
+  <text x="48" y="88" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#8b949e">Greenplum</text>
+</svg>
