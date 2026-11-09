@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="assets/buttons/linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/usama-zia-analyst/"><img src="assets/buttons/linkedin.svg" height="40" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:usama.zia72@gmail.com"><img src="assets/buttons/email.svg" height="40" alt="Email me"></a>
   &nbsp;
